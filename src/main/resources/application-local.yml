@@ -1,0 +1,4 @@
+gcp:
+  projectId: drohobytskyy-test-project
+  credentials:
+    location: D:\gcp\credentials\application_default_credentials.json

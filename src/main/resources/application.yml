@@ -1,0 +1,12 @@
+logging:
+  level:
+    com:
+      test:
+        gcp: DEBUG
+gcp:
+  storage:
+    bucket-name: roman-roman-rrr-bbb
+    env: dev
+spring:
+  profiles:
+    active: default
